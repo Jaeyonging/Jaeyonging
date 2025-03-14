@@ -43,6 +43,8 @@
     <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png"/><br>Android</td>
     <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/><br>Java</td>
     <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png"/><br>Kotlin</td>
+  </tr>
+  <tr>
     <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png"/><br>iOS</td>
     <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png"/><br>Swift</td>
   </tr>
