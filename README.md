@@ -18,14 +18,12 @@
 ### 🎨 Frontend
 <table>
   <tr>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/><br>React</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/><br>JavaScript</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"/><br>TypeScript</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png"/><br>Vite</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"/><br>Redux</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png"/><br>React Query</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/><br>React</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/><br>JavaScript</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"/><br>TypeScript</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png"/><br>Vite</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"/><br>Redux</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png"/><br>React Query</td>
     <td align="center"><br>Zustand</td>
   </tr>
 </table>
@@ -33,40 +31,38 @@
 ### 🎨 UI & Styling
 <table>
   <tr>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/><br>CSS</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/><br>Tailwind CSS</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/><br>HTML</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/><br>CSS</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/><br>Tailwind CSS</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/><br>HTML</td>
   </tr>
 </table>
 
 ### 📱 Mobile Development
 <table>
   <tr>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png"/><br>Android</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/><br>Java</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png"/><br>Kotlin</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png"/><br>iOS</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png"/><br>Swift</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png"/><br>Android</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/><br>Java</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png"/><br>Kotlin</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png"/><br>iOS</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png"/><br>Swift</td>
   </tr>
 </table>
 
 ### 🔥 Backend & Database
 <table>
   <tr>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"/><br>Node.js</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/><br>MySQL</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png"/><br>PHP</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"/><br>Node.js</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/><br>MySQL</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png"/><br>PHP</td>
   </tr>
 </table>
 
 ### ⚙️ Tools & DevOps
 <table>
   <tr>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png"/><br>Ubuntu</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"/><br>GitHub</td>
-    <td align="center"><img height="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/><br>Git</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png"/><br>Ubuntu</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"/><br>GitHub</td>
+    <td align="center"><img height="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/><br>Git</td>
   </tr>
 </table>
 
@@ -86,9 +82,10 @@
 
 <div align="start">
 
-📧 <strong>Email:</strong> <a href="mailto:wodyd1318@naver.com">wodyd1318@naver.com</a> |  
-📎 <strong>Portfolio:</strong> <a href="https://jaeyonging.com">jaeyonging.com</a> |  
+📧 <strong>Email:</strong> <a href="mailto:wodyd1318@naver.com">wodyd1318@naver.com</a>  
+📎 <strong>Portfolio:</strong> <a href="https://jaeyonging.com">jaeyonging.com</a> (🚧 작업 중) 
 🐦 <strong>GitHub:</strong> <a href="https://github.com/Jaeyonging">Jaeyonging</a>
 
 </div>
+
 
