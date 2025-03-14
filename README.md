@@ -83,11 +83,10 @@
 ## 📫 Contact Me
 
 <div align="start">
-
-📧 <strong>Email:</strong> <a href="mailto:wodyd1318@naver.com">wodyd1318@naver.com</a>  
-📎 <strong>Portfolio:</strong> <a href="https://jaeyonging.com">jaeyonging.com</a> (🚧 작업 중) 
-🐦 <strong>GitHub:</strong> <a href="https://github.com/Jaeyonging">Jaeyonging</a>
-
+📧 <strong>Email:</strong> <a href="mailto:wodyd1318@naver.com">wodyd1318@naver.com</a> <br>
+📎 <strong>Portfolio:</strong> <a href="https://jaeyonging.com">jaeyonging.com</a> (🚧 작업 중) <br>
+🐦 <strong>GitHub:</strong> <a href="https://github.com/Jaeyonging">Jaeyonging</a> 
 </div>
+
 
 
