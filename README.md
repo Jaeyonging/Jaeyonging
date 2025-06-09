@@ -84,6 +84,7 @@
 <div align="start">
 📧 <strong>Email:</strong> <a href="mailto:wodyd1318@naver.com">wodyd1318@naver.com</a> <br>
 📎 <strong>Portfolio:</strong> <a href="http://jaeyonging.com">jaeyonging.com</a> (🚧 작업 중) <br>
+📎 <strong>old Portfolio:</strong> <a href="http://jaeyonging.vercel.app">jaeyonging.vercel.app</a> (X 매우 안좋음) <br>
 🐦 <strong>GitHub:</strong> <a href="https://github.com/Jaeyonging">Jaeyonging</a> 
 </div>
 
