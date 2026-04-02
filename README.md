@@ -83,7 +83,7 @@
 
 <div align="start">
 📧 <strong>Email:</strong> <a href="mailto:wodyd1318@naver.com">wodyd1318@naver.com</a> <br>
-📎 <strong>Portfolio:</strong> <a href="https://jaeyonging.com">jaeyonging.com</a> (🚧 작업 중) <br>
+📎 <strong>Portfolio:</strong> <a href="https://jaeyonging.com">jaeyonging.com</a>
 📎 <strong>HTML Games</strong> <a href="http://game.jaeyonging.com">game.jaeyonging.com</a><br>
 🐦 <strong>GitHub:</strong> <a href="https://github.com/Jaeyonging">Jaeyonging</a> 
 </div>
